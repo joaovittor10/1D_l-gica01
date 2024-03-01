@@ -1,1 +1,1 @@
-# 1D_l-gica01
+# 1D_logica01
